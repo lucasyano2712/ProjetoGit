@@ -1,0 +1,1 @@
+O objetivo desse projeto é que eu aprenda a utlizar o Git
